@@ -1,0 +1,20 @@
+.container {
+  position: relative;
+  line-height: 1.6;
+}
+
+.number {
+  font-family: var(--font-ui);
+  font-size: 0.7em;
+  color: var(--foreground-muted);
+  margin-right: 0.25em;
+  user-select: none;
+  font-feature-settings: "tnum";
+  vertical-align: top;
+}
+
+.text {
+  font-family: var(--font-scripture);
+  font-size: var(--text-xl);
+  color: var(--foreground);
+}

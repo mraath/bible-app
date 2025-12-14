@@ -1,0 +1,11 @@
+[
+  { "id": "creation", "title": "Creation", "bookId": "GEN", "chapter": 1, "progress": 0.02, "type": "major" },
+  { "id": "flood", "title": "The Flood", "bookId": "GEN", "chapter": 7, "progress": 0.08, "type": "minor" },
+  { "id": "abraham", "title": "Call of Abraham", "bookId": "GEN", "chapter": 12, "progress": 0.15, "type": "major" },
+  { "id": "exodus", "title": "The Exodus", "bookId": "EXO", "chapter": 1, "progress": 0.25, "type": "major" },
+  { "id": "kings", "title": "Kingdom Established", "bookId": "1SA", "chapter": 1, "progress": 0.45, "type": "major" },
+  { "id": "exile", "title": "The Exile", "bookId": "2KI", "chapter": 25, "progress": 0.60, "type": "major" },
+  { "id": "jesus", "title": "Birth of Jesus", "bookId": "LUK", "chapter": 1, "progress": 0.80, "type": "major" },
+  { "id": "cross", "title": "The Crucifixion", "bookId": "MRK", "chapter": 15, "progress": 0.85, "type": "minor" },
+  { "id": "revelation", "title": "New Creation", "bookId": "REV", "chapter": 21, "progress": 0.98, "type": "major" }
+]

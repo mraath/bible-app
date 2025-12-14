@@ -1,0 +1,18 @@
+{
+  "bookId": "EXO",
+  "imageUrl": "/images/books/EXO.jpg",
+  "color": "#d97706",
+  "orientation": "landscape",
+  "keyframes": [
+    { 
+      "startVerse": 1, "endVerse": 10, 
+      "focus": { "x": 10, "y": 50, "scale": 1.5 }, 
+      "transitionDuration": 3 
+    },
+    { 
+      "startVerse": 11, "endVerse": 40, 
+      "focus": { "x": 90, "y": 50, "scale": 1.2 }, 
+      "transitionDuration": 15 
+    }
+  ]
+}

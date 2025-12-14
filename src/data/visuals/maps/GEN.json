@@ -1,0 +1,18 @@
+{
+  "bookId": "GEN",
+  "imageUrl": "/images/books/GEN.jpg",
+  "color": "#e4dac4",
+  "orientation": "landscape",
+  "keyframes": [
+    { 
+      "startVerse": 1, "endVerse": 2, 
+      "focus": { "x": 5, "y": 50, "scale": 1.5 }, 
+      "transitionDuration": 3 
+    },
+    { 
+      "startVerse": 3, "endVerse": 31, 
+      "focus": { "x": 8, "y": 50, "scale": 1.2 }, 
+      "transitionDuration": 10 
+    }
+  ]
+}

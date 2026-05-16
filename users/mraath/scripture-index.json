@@ -1,11 +1,41 @@
 {
   "MAT:1:1-17": {
     "book": "Matthew",
-    "chapter": 1,
+    "chapter_start": 1,
+    "chapter_end": 1,
     "verses": "1-17",
     "annotation": "users/mraath/annotations/Bible.Matthew.1.1-17.annotation.png",
     "bible_app_note": "users/mraath/notes/MAT/1_1-17.md",
     "obsidian_note": "Personal/MR Bible/Matthew 1v1-17.md",
+    "created": "2026-05-16"
+  },
+  "MAT:1:18-25": {
+    "book": "Matthew",
+    "chapter": 1,
+    "verses": "18-25",
+    "annotation": "users/mraath/annotations/Bible.Matthew.1.18-25.annotation.png",
+    "bible_app_note": "users/mraath/notes/MAT/1_18-25.md",
+    "obsidian_note": "Personal/MR Bible/Matthew 1v18-25.md",
+    "created": "2026-05-16"
+  },
+  "PSA:1:1-6": {
+    "book": "Psalms",
+    "chapter_start": 1,
+    "chapter_end": 1,
+    "verses": "1-6",
+    "annotation": "users/mraath/annotations/Bible.Psalms.1.1-6.annotation.png",
+    "bible_app_note": "users/mraath/notes/PSA/1_1-6.md",
+    "obsidian_note": "Personal/MR Bible/Psalms 1v1-6.md",
+    "created": "2026-05-16"
+  },
+  "GEN:1-2": {
+    "book": "Genesis",
+    "chapter_start": 1,
+    "chapter_end": 2,
+    "verses": "1-25",
+    "annotation": "users/mraath/annotations/Bible.Genesis.1-2.annotation.png",
+    "bible_app_note": "users/mraath/notes/GEN/1-2.md",
+    "obsidian_note": "Personal/MR Bible/Genesis 1v1-25.md",
     "created": "2026-05-16"
   }
 }

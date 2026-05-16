@@ -8,7 +8,7 @@ Each checkbox is one day's reading across 4 streams. Check them off as you go.
 
 ## January
 
-- [ ] **Jan 1** — MATTHEW 1:1-17 · ACTS 1:1-11 · PSALMS 1 · GENESIS 1-2
+- [x] **Jan 1** — MATTHEW 1:1-17 · ACTS 1:1-11 · PSALMS 1 · GENESIS 1-2
 - [ ] **Jan 2** — MATTHEW 1:18-25 · ACTS 1:12-26 · PSALMS 2 · GENESIS 3-4
 - [ ] **Jan 3** — MATTHEW 2:1-12 · ACTS 2:1-21 · PSALMS 3 · GENESIS 5-8
 - [ ] **Jan 4** — MATTHEW 2:13-23 · ACTS 2:22-47 · PSALMS 4 · GENESIS 9-11

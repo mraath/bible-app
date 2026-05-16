@@ -1,1843 +1,1802 @@
 # Discipleship Journal — mraath's Progress
 
-Each section is its own checkbox. Check off one at a time as you finish it.
+Each section is its own checkbox. Check off one at a time as you finish reading it.
 
-Format: `- [ ] BOOK REFERENCE · [[notes/CODE/slug|annotate]]`
-
-
-## Discipleship Journal Bible Reading Plan
-
-
-## January
-
-**Jan 1**
+**Session 1**
 - [ ] MATTHEW 1:1-17
 - [ ] ACTS 1:1-11
 - [ ] PSALMS 1
 - [ ] GENESIS 1-2
 
-**Jan 2**
+**Session 2**
 - [ ] MATTHEW 1:18-25
 - [ ] ACTS 1:12-26
 - [ ] PSALMS 2
 - [ ] GENESIS 3-4
 
-**Jan 3**
+**Session 3**
 - [ ] MATTHEW 2:1-12
 - [ ] ACTS 2:1-21
 - [ ] PSALMS 3
 - [ ] GENESIS 5-8
 
-**Jan 4**
+**Session 4**
 - [ ] MATTHEW 2:13-23
 - [ ] ACTS 2:22-47
 - [ ] PSALMS 4
 - [ ] GENESIS 9-11
 
-**Jan 5**
+**Session 5**
 - [ ] MATTHEW 3:1-12
 - [ ] ACTS 3
 - [ ] PSALMS 5
 - [ ] GENESIS 12-14
 
-**Jan 6**
+**Session 6**
 - [ ] MATTHEW 3:13-17
 - [ ] ACTS 4:1-22
 - [ ] PSALMS 6
 - [ ] GENESIS 15-17
 
-**Jan 7**
+**Session 7**
 - [ ] MATTHEW 4:1-11
 - [ ] ACTS 4:23-37
 - [ ] PSALMS 7
 - [ ] GENESIS 18-20
 
-**Jan 8**
+**Session 8**
 - [ ] MATTHEW 4:12-17
 - [ ] ACTS 5:1-16
 - [ ] PSALMS 8
 - [ ] GENESIS 21-23
 
-**Jan 9**
+**Session 9**
 - [ ] MATTHEW 4:18-25
 - [ ] ACTS 5:17-42
 - [ ] PSALMS 9
 - [ ] GENESIS 24
 
-**Jan 10**
+**Session 10**
 - [ ] MATTHEW 5:1-12
 - [ ] ACTS 6
 - [ ] PSALMS 10
 - [ ] GENESIS 25-26
 
-**Jan 11**
+**Session 11**
 - [ ] MATTHEW 5:13-20
 - [ ] ACTS 7:1-38
 - [ ] PSALMS 11
 - [ ] GENESIS 27-28
 
-**Jan 12**
+**Session 12**
 - [ ] MATTHEW 5:21-32
 - [ ] ACTS 7:39-60
 - [ ] PSALMS 12
 - [ ] GENESIS 29-30
 
-**Jan 13**
+**Session 13**
 - [ ] MATTHEW 5:33-48
 - [ ] ACTS 8:1-25
 - [ ] PSALMS 13
 - [ ] GENESIS 31
 
-**Jan 14**
+**Session 14**
 - [ ] MATTHEW 6:1-15
 - [ ] ACTS 8:26-40
 - [ ] PSALMS 14
 - [ ] GENESIS 32-33
 
-**Jan 15**
+**Session 15**
 - [ ] MATTHEW 6:16-24
 - [ ] ACTS 9:1-19
 - [ ] PSALMS 15
 - [ ] GENESIS 34-35
 
-**Jan 16**
+**Session 16**
 - [ ] MATTHEW 6:25-34
 - [ ] ACTS 9:20-43
 - [ ] PSALMS 16
 - [ ] GENESIS 36
 
-**Jan 17**
+**Session 17**
 - [ ] MATTHEW 7:1-14
 - [ ] ACTS 10:1-23
 - [ ] PSALMS 17
 - [ ] GENESIS 37-38
 
-**Jan 18**
+**Session 18**
 - [ ] MATTHEW 7:15-29
 - [ ] ACTS 10:24-48
 - [ ] PSALMS 18:1-24
 - [ ] GENESIS 39-40
 
-**Jan 19**
+**Session 19**
 - [ ] MATTHEW 8:1-13
 - [ ] ACTS 11:1-18
 - [ ] PSALMS 18:25-50
 - [ ] GENESIS 41
 
-**Jan 20**
+**Session 20**
 - [ ] MATTHEW 8:14-22
 - [ ] ACTS 11:19-30
 - [ ] PSALMS 19
 - [ ] GENESIS 42-43
 
-**Jan 21**
+**Session 21**
 - [ ] MATTHEW 8:23-34
 - [ ] ACTS 12
 - [ ] PSALMS 20
 - [ ] GENESIS 44-45
 
-**Jan 22**
+**Session 22**
 - [ ] MATTHEW 9:1-13
 - [ ] ACTS 13:1-25
 - [ ] PSALMS 21
 - [ ] GENESIS 46-47
 
-**Jan 23**
+**Session 23**
 - [ ] MATTHEW 9:14-26
 - [ ] ACTS 13:26-52
 - [ ] PSALMS 22:1-11
 - [ ] GENESIS 48
 
-**Jan 24**
+**Session 24**
 - [ ] MATTHEW 9:27-38
 - [ ] ACTS 14
 - [ ] PSALMS 22:12-31
 - [ ] GENESIS 49
 
-**Jan 25**
+**Session 25**
 - [ ] MATTHEW 10:1-20
 - [ ] ACTS 15:1-21
 - [ ] PSALMS 23
 - [ ] GENESIS 50
 
-
-## February
-
-**Feb 1**
+**Session 26**
 - [ ] MATTHEW 10:21-42
 - [ ] ACTS 15:22-41
 - [ ] PSALMS 24
 - [ ] EXODUS 1-3
 
-**Feb 2**
+**Session 27**
 - [ ] MATTHEW 11:1-19
 - [ ] ACTS 16:1-15
 - [ ] PSALMS 25
 - [ ] EXODUS 4-6
 
-**Feb 3**
+**Session 28**
 - [ ] MATTHEW 11:20-30
 - [ ] ACTS 16:16-40
 - [ ] PSALMS 26
 - [ ] EXODUS 7-9
 
-**Feb 4**
+**Session 29**
 - [ ] MATTHEW 12:1-21
 - [ ] ACTS 17:1-15
 - [ ] PSALMS 27
 - [ ] EXODUS 10-12
 
-**Feb 5**
+**Session 30**
 - [ ] MATTHEW 12:22-37
 - [ ] ACTS 17:16-34
 - [ ] PSALMS 28
 - [ ] EXODUS 13-15
 
-**Feb 6**
+**Session 31**
 - [ ] MATTHEW 12:38-50
 - [ ] ACTS 18:1-17
 - [ ] PSALMS 29
 - [ ] EXODUS 16-18
 
-**Feb 7**
+**Session 32**
 - [ ] MATTHEW 13:1-23
 - [ ] ACTS 18:18-28
 - [ ] PSALMS 30
 - [ ] EXODUS 19-20
 
-**Feb 8**
+**Session 33**
 - [ ] MATTHEW 13:24-43
 - [ ] ACTS 19:1-22
 - [ ] PSALMS 31
 - [ ] EXODUS 21-23
 
-**Feb 9**
+**Session 34**
 - [ ] MATTHEW 13:44-58
 - [ ] ACTS 19:23-41
 - [ ] PSALMS 32
 - [ ] EXODUS 24-26
 
-**Feb 10**
+**Session 35**
 - [ ] MATTHEW 14:1-21
 - [ ] ACTS 20:1-12
 - [ ] PSALMS 33
 - [ ] EXODUS 27-29
 
-**Feb 11**
+**Session 36**
 - [ ] MATTHEW 14:22-36
 - [ ] ACTS 20:13-38
 - [ ] PSALMS 34
 - [ ] EXODUS 30-31
 
-**Feb 12**
+**Session 37**
 - [ ] MATTHEW 15:1-20
 - [ ] ACTS 21:1-26
 - [ ] PSALMS 35
 - [ ] EXODUS 32-33
 
-**Feb 13**
+**Session 38**
 - [ ] MATTHEW 15:21-39
 - [ ] ACTS 21:27-40
 - [ ] PSALMS 36
 - [ ] EXODUS 34
 
-**Feb 14**
+**Session 39**
 - [ ] MATTHEW 16:1-12
 - [ ] ACTS 22
 - [ ] PSALMS 37:1-22
 - [ ] EXODUS 35-37
 
-**Feb 15**
+**Session 40**
 - [ ] MATTHEW 16:13-28
 - [ ] ACTS 23:1-11
 - [ ] PSALMS 37:23-40
 - [ ] EXODUS 38-40
 
-**Feb 16**
+**Session 41**
 - [ ] MATTHEW 17:1-13
 - [ ] ACTS 23:12-35
 - [ ] PSALMS 38
 - [ ] EXODUS 1-4
 
-**Feb 17**
+**Session 42**
 - [ ] MATTHEW 17:14-27
 - [ ] ACTS 24
 - [ ] PSALMS 39
 - [ ] EXODUS 5-7
 
-**Feb 18**
+**Session 43**
 - [ ] MATTHEW 18:1-14
 - [ ] ACTS 25:1-12
 - [ ] PSALMS 40
 - [ ] EXODUS 8-10
 
-**Feb 19**
+**Session 44**
 - [ ] MATTHEW 18:15-35
 - [ ] ACTS 25:13-27
 - [ ] PSALMS 41
 - [ ] EXODUS 11-13
 
-**Feb 20**
+**Session 45**
 - [ ] MATTHEW 19:1-15
 - [ ] ACTS 26:1-18
 - [ ] PSALMS 42
 - [ ] EXODUS 14-15
 
-**Feb 21**
+**Session 46**
 - [ ] MATTHEW 19:16-30
 - [ ] ACTS 26:19-32
 - [ ] PSALMS 43
 - [ ] EXODUS 16-17
 
-**Feb 22**
+**Session 47**
 - [ ] MATTHEW 20:1-16
 - [ ] ACTS 27:1-26
 - [ ] PSALMS 44
 - [ ] EXODUS 18-20
 
-**Feb 23**
+**Session 48**
 - [ ] MATTHEW 20:17-34
 - [ ] ACTS 27:27-44
 - [ ] PSALMS 45
 - [ ] EXODUS 21-23
 
-**Feb 24**
+**Session 49**
 - [ ] MATTHEW 21:1-11
 - [ ] ACTS 28:1-16
 - [ ] PSALMS 46
 - [ ] EXODUS 24-25
 
-**Feb 25**
+**Session 50**
 - [ ] MATTHEW 21:12-22
 - [ ] ACTS 28:17-31
 - [ ] PSALMS 47
 - [ ] EXODUS 26-27
 
-
-## March
-
-**Mar 1**
+**Session 51**
 - [ ] MATTHEW 21:23-32
 - [ ] ROMANS 1:1-17
 - [ ] PSALMS 48
 - [ ] NUMBERS 1-2
 
-**Mar 2**
+**Session 52**
 - [ ] MATTHEW 21:33-46
 - [ ] ROMANS 1:18-32
 - [ ] PSALMS 49
 - [ ] NUMBERS 3-4
 
-**Mar 3**
+**Session 53**
 - [ ] MATTHEW 22:1-14
 - [ ] ROMANS 2
 - [ ] PSALMS 50
 - [ ] NUMBERS 5-6
 
-**Mar 4**
+**Session 54**
 - [ ] MATTHEW 22:15-33
 - [ ] ROMANS 3
 - [ ] PSALMS 51
 - [ ] NUMBERS 7-8
 
-**Mar 5**
+**Session 55**
 - [ ] MATTHEW 22:34-46
 - [ ] ROMANS 4
 - [ ] PSALMS 52
 - [ ] NUMBERS 9-11
 
-**Mar 6**
+**Session 56**
 - [ ] MATTHEW 23:1-12
 - [ ] ROMANS 5:1-11
 - [ ] PSALMS 53
 - [ ] NUMBERS 12-14
 
-**Mar 7**
+**Session 57**
 - [ ] MATTHEW 23:13-24
 - [ ] ROMANS 5:12-21
 - [ ] PSALMS 54
 - [ ] NUMBERS 15-17
 
-**Mar 8**
+**Session 58**
 - [ ] MATTHEW 23:25-39
 - [ ] ROMANS 6:1-14
 - [ ] PSALMS 55
 - [ ] NUMBERS 18-20
 
-**Mar 9**
+**Session 59**
 - [ ] MATTHEW 24:1-14
 - [ ] ROMANS 6:15-23
 - [ ] PSALMS 56
 - [ ] NUMBERS 21-22
 
-**Mar 10**
+**Session 60**
 - [ ] MATTHEW 24:15-35
 - [ ] ROMANS 7:1-12
 - [ ] PSALMS 57
 - [ ] NUMBERS 23-25
 
-**Mar 11**
+**Session 61**
 - [ ] MATTHEW 24:36-51
 - [ ] ROMANS 7:13-25
 - [ ] PSALMS 58
 - [ ] NUMBERS 26-27
 
-**Mar 12**
+**Session 62**
 - [ ] MATTHEW 25:1-13
 - [ ] ROMANS 8:1-17
 - [ ] PSALMS 59
 - [ ] NUMBERS 28-30
 
-**Mar 13**
+**Session 63**
 - [ ] MATTHEW 25:14-30
 - [ ] ROMANS 8:18-39
 - [ ] PSALMS 60
 - [ ] NUMBERS 31-32
 
-**Mar 14**
+**Session 64**
 - [ ] MATTHEW 25:31-46
 - [ ] ROMANS 9:1-18
 - [ ] PSALMS 61
 - [ ] NUMBERS 33-36
 
-**Mar 15**
+**Session 65**
 - [ ] MATTHEW 26:1-16
 - [ ] ROMANS 9:19-33
 - [ ] PSALMS 62
 - [ ] NUMBERS 1-3
 
-**Mar 16**
+**Session 66**
 - [ ] MATTHEW 26:17-35
 - [ ] ROMANS 10
 - [ ] PSALMS 63
 - [ ] NUMBERS 4-5
 
-**Mar 17**
+**Session 67**
 - [ ] MATTHEW 26:36-56
 - [ ] ROMANS 11:1-24
 - [ ] PSALMS 64
 - [ ] NUMBERS 6-8
 
-**Mar 18**
+**Session 68**
 - [ ] MATTHEW 26:57-75
 - [ ] ROMANS 11:25-36
 - [ ] PSALMS 65
 - [ ] NUMBERS 9-12
 
-**Mar 19**
+**Session 69**
 - [ ] MATTHEW 27:1-10
 - [ ] ROMANS 12:1-8
 - [ ] PSALMS 66
 - [ ] NUMBERS 13-17
 
-**Mar 20**
+**Session 70**
 - [ ] MATTHEW 27:11-26
 - [ ] ROMANS 12:9-21
 - [ ] PSALMS 67
 - [ ] NUMBERS 18-21
 
-**Mar 21**
+**Session 71**
 - [ ] MATTHEW 27:27-44
 - [ ] ROMANS 13
 - [ ] PSALMS 68
 - [ ] NUMBERS 22-26
 
-**Mar 22**
+**Session 72**
 - [ ] MATTHEW 27:45-56
 - [ ] ROMANS 14
 - [ ] PSALMS 69:1-18
 - [ ] NUMBERS 27-28
 
-**Mar 23**
+**Session 73**
 - [ ] MATTHEW 27:57-66
 - [ ] ROMANS 15:1-13
 - [ ] PSALMS 69:19-36
 - [ ] NUMBERS 29-31
 
-**Mar 24**
+**Session 74**
 - [ ] MATTHEW 28:1-10
 - [ ] ROMANS 15:14-33
 - [ ] PSALMS 70
 - [ ] NUMBERS 32
 
-**Mar 25**
+**Session 75**
 - [ ] MATTHEW 28:11-20
 - [ ] ROMANS 16
 - [ ] PSALMS 71
 - [ ] NUMBERS 33-34
 
-
-## April
-
-**Apr 1**
+**Session 76**
 - [ ] MARK 1:1-8
 - [ ] 1 COR. 1:1-17
 - [ ] PSALMS 72
 - [ ] JOSHUA 1-2
 
-**Apr 2**
+**Session 77**
 - [ ] MARK 1:9-20
 - [ ] 1 COR. 1:18-31
 - [ ] PSALMS 73
 - [ ] JOSHUA 3-5
 
-**Apr 3**
+**Session 78**
 - [ ] MARK 1:21-34
 - [ ] 1 COR. 2
 - [ ] PSALMS 74
 - [ ] JOSHUA 6-7
 
-**Apr 4**
+**Session 79**
 - [ ] MARK 1:35-45
 - [ ] 1 COR. 3
 - [ ] PSALMS 75
 - [ ] JOSHUA 8-9
 
-**Apr 5**
+**Session 80**
 - [ ] MARK 2:1-12
 - [ ] 1 COR. 4
 - [ ] PSALMS 76
 - [ ] JOSHUA 10-12
 
-**Apr 6**
+**Session 81**
 - [ ] MARK 2:13-17
 - [ ] 1 COR. 5
 - [ ] PSALMS 77
 - [ ] JOSHUA 13-14
 
-**Apr 7**
+**Session 82**
 - [ ] MARK 2:18-28
 - [ ] 1 COR. 6:1-11
 - [ ] PSALMS 78:1-39
 - [ ] JOSHUA 15-17
 
-**Apr 8**
+**Session 83**
 - [ ] MARK 3:1-19
 - [ ] 1 COR. 6:12-20
 - [ ] PSALMS 78:40-72
 - [ ] JOSHUA 18-19
 
-**Apr 9**
+**Session 84**
 - [ ] MARK 3:20-35
 - [ ] 1 COR. 7:1-16
 - [ ] PSALMS 79
 - [ ] JOSHUA 20-21
 
-**Apr 10**
+**Session 85**
 - [ ] MARK 4:1-20
 - [ ] 1 COR. 7:17-40
 - [ ] PSALMS 80
 - [ ] JOSHUA 22-23
 
-**Apr 11**
+**Session 86**
 - [ ] MARK 4:21-41
 - [ ] 1 COR. 8
 - [ ] PSALMS 81
 - [ ] JOSHUA 24
 
-**Apr 12**
+**Session 87**
 - [ ] MARK 5:1-20
 - [ ] 1 COR. 9:1-12
 - [ ] PSALMS 82
 - [ ] JOSHUA 1-3
 
-**Apr 13**
+**Session 88**
 - [ ] MARK 5:21-43
 - [ ] 1 COR. 9:13-27
 - [ ] PSALMS 83
 - [ ] JOSHUA 4-5
 
-**Apr 14**
+**Session 89**
 - [ ] MARK 6:1-13
 - [ ] 1 COR. 10:1-13
 - [ ] PSALMS 84
 - [ ] JOSHUA 6-7
 
-**Apr 15**
+**Session 90**
 - [ ] MARK 6:14-29
 - [ ] 1 COR. 10:14-33
 - [ ] PSALMS 85
 - [ ] JOSHUA 8
 
-**Apr 16**
+**Session 91**
 - [ ] MARK 6:30-44
 - [ ] 1 COR. 11:1-16
 - [ ] PSALMS 86
 - [ ] JOSHUA 9
 
-**Apr 17**
+**Session 92**
 - [ ] MARK 6:45-56
 - [ ] 1 COR. 11:17-34
 - [ ] PSALMS 87
 - [ ] JOSHUA 10-12
 
-**Apr 18**
+**Session 93**
 - [ ] MARK 7:1-23
 - [ ] 1 COR. 12:1-13
 - [ ] PSALMS 88
 - [ ] JOSHUA 13-15
 
-**Apr 19**
+**Session 94**
 - [ ] MARK 7:24-37
 - [ ] 1 COR. 12:14-31
 - [ ] PSALMS 89:1-18
 - [ ] JOSHUA 16
 
-**Apr 20**
+**Session 95**
 - [ ] MARK 8:1-13
 - [ ] 1 COR. 13
 - [ ] PSALMS 89:19-52
 - [ ] JOSHUA 17-18
 
-**Apr 21**
+**Session 96**
 - [ ] MARK 8:14-21
 - [ ] 1 COR. 14:1-25
 - [ ] PSALMS 90
 - [ ] JOSHUA 19
 
-**Apr 22**
+**Session 97**
 - [ ] MARK 8:22-30
 - [ ] 1 COR. 14:26-40
 - [ ] PSALMS 91
 - [ ] JOSHUA 20-21
 
-**Apr 23**
+**Session 98**
 - [ ] MARK 8:31-38
 - [ ] 1 COR. 15:1-28
 - [ ] PSALMS 92
 - [ ] JOSHUA 1
 
-**Apr 24**
+**Session 99**
 - [ ] MARK 9:1-13
 - [ ] 1 COR. 15:29-58
 - [ ] PSALMS 93
 - [ ] JOSHUA 2-3
 
-**Apr 25**
+**Session 100**
 - [ ] MARK 9:14-32
 - [ ] 1 COR. 16
 - [ ] PSALMS 94
 - [ ] JOSHUA 4
 
-
-## May
-
-**May 1**
+**Session 101**
 - [ ] MARK 9:33-50
 - [ ] 2 COR. 1:1-11
 - [ ] PSALMS 95
 - [ ] 1 SAMUEL 1-2
 
-**May 2**
+**Session 102**
 - [ ] MARK 10:1-16
 - [ ] 2 COR. 1:12-24
 - [ ] PSALMS 96
 - [ ] 1 SAMUEL 3-5
 
-**May 3**
+**Session 103**
 - [ ] MARK 10:17-34
 - [ ] 2 COR. 2
 - [ ] PSALMS 97
 - [ ] 1 SAMUEL 6-8
 
-**May 4**
+**Session 104**
 - [ ] MARK 10:35-52
 - [ ] 2 COR. 3
 - [ ] PSALMS 98
 - [ ] 1 SAMUEL 9-10
 
-**May 5**
+**Session 105**
 - [ ] MARK 11:1-11
 - [ ] 2 COR. 4
 - [ ] PSALMS 99
 - [ ] 1 SAMUEL 11-13
 
-**May 6**
+**Session 106**
 - [ ] MARK 11:12-26
 - [ ] 2 COR. 5
 - [ ] PSALMS 100
 - [ ] 1 SAMUEL 14
 
-**May 7**
+**Session 107**
 - [ ] MARK 11:27-33
 - [ ] 2 COR. 6
 - [ ] PSALMS 101
 - [ ] 1 SAMUEL 15-16
 
-**May 8**
+**Session 108**
 - [ ] MARK 12:1-12
 - [ ] 2 COR. 7
 - [ ] PSALMS 102
 - [ ] 1 SAMUEL 17-18
 
-**May 9**
+**Session 109**
 - [ ] MARK 12:13-27
 - [ ] 2 COR. 8
 - [ ] PSALMS 103
 - [ ] 1 SAMUEL 19-20
 
-**May 10**
+**Session 110**
 - [ ] MARK 12:28-34
 - [ ] 2 COR. 9
 - [ ] PSALMS 104
 - [ ] 1 SAMUEL 21-23
 
-**May 11**
+**Session 111**
 - [ ] MARK 12:35-44
 - [ ] 2 COR. 10
 - [ ] PSALMS 105
 - [ ] 1 SAMUEL 24-25
 
-**May 12**
+**Session 112**
 - [ ] MARK 13:1-13
 - [ ] 2 COR. 11:1-15
 - [ ] PSALMS 106:1-23
 - [ ] 1 SAMUEL 26-28
 
-**May 13**
+**Session 113**
 - [ ] MARK 13:14-31
 - [ ] 2 COR. 11:16-33
 - [ ] PSALMS 106:24-48
 - [ ] 1 SAMUEL 29-31
 
-**May 14**
+**Session 114**
 - [ ] MARK 13:32-37
 - [ ] 2 COR. 12:1-10
 - [ ] PSALMS 107
 - [ ] 1 SAMUEL 1-2
 
-**May 15**
+**Session 115**
 - [ ] MARK 14:1-11
 - [ ] 2 COR. 12:11-21
 - [ ] PSALMS 108
 - [ ] 1 SAMUEL 3-4
 
-**May 16**
+**Session 116**
 - [ ] MARK 14:12-31
 - [ ] 2 COR. 13
 - [ ] PSALMS 109
 - [ ] 1 SAMUEL 5-7
 
-**May 17**
+**Session 117**
 - [ ] MARK 14:32-42
 - [ ] 2 COR. 1
 - [ ] PSALMS 110
 - [ ] 1 SAMUEL 8-10
 
-**May 18**
+**Session 118**
 - [ ] MARK 14:43-52
 - [ ] 2 COR. 2
 - [ ] PSALMS 111
 - [ ] 1 SAMUEL 11-12
 
-**May 19**
+**Session 119**
 - [ ] MARK 14:53-65
 - [ ] 2 COR. 3:1-14
 - [ ] PSALMS 112
 - [ ] 1 SAMUEL 13
 
-**May 20**
+**Session 120**
 - [ ] MARK 14:66-72
 - [ ] 2 COR. 3:15-29
 - [ ] PSALMS 113
 - [ ] 1 SAMUEL 14-15
 
-**May 21**
+**Session 121**
 - [ ] MARK 15:1-15
 - [ ] 2 COR. 4:1-20
 - [ ] PSALMS 114
 - [ ] 1 SAMUEL 16-17
 
-**May 22**
+**Session 122**
 - [ ] MARK 15:16-32
 - [ ] 2 COR. 4:21-31
 - [ ] PSALMS 115
 - [ ] 1 SAMUEL 18-19
 
-**May 23**
+**Session 123**
 - [ ] MARK 15:33-41
 - [ ] 2 COR. 5:1-12
 - [ ] PSALMS 116
 - [ ] 1 SAMUEL 20-21
 
-**May 24**
+**Session 124**
 - [ ] MARK 15:42-47
 - [ ] 2 COR. 5:13-26
 - [ ] PSALMS 117
 - [ ] 1 SAMUEL 22
 
-**May 25**
+**Session 125**
 - [ ] MARK 16
 - [ ] 2 COR. 6
 - [ ] PSALMS 118
 - [ ] 1 SAMUEL 23-24
 
-
-## June
-
-**Jun 1**
+**Session 126**
 - [ ] LUKE 1:1-25
 - [ ] EPHESIANS 1:1-14
 - [ ] PSALMS 119:1-8
 - [ ] 1 KINGS 1
 
-**Jun 2**
+**Session 127**
 - [ ] LUKE 1:26-38
 - [ ] EPHESIANS 1:15-23
 - [ ] PSALMS 119:9-16
 - [ ] 1 KINGS 2-3
 
-**Jun 3**
+**Session 128**
 - [ ] LUKE 1:39-56
 - [ ] EPHESIANS 2:1-10
 - [ ] PSALMS 119:17-24
 - [ ] 1 KINGS 4-5
 
-**Jun 4**
+**Session 129**
 - [ ] LUKE 1:57-66
 - [ ] EPHESIANS 2:11-22
 - [ ] PSALMS 119:25-32
 - [ ] 1 KINGS 6-7
 
-**Jun 5**
+**Session 130**
 - [ ] LUKE 1:67-80
 - [ ] EPHESIANS 3:1-13
 - [ ] PSALMS 119:33-40
 - [ ] 1 KINGS 8
 
-**Jun 6**
+**Session 131**
 - [ ] LUKE 2:1-20
 - [ ] EPHESIANS 3:14-21
 - [ ] PSALMS 119:41-48
 - [ ] 1 KINGS 9-10
 
-**Jun 7**
+**Session 132**
 - [ ] LUKE 2:21-40
 - [ ] EPHESIANS 4:1-16
 - [ ] PSALMS 119:49-56
 - [ ] 1 KINGS 11
 
-**Jun 8**
+**Session 133**
 - [ ] LUKE 2:41-52
 - [ ] EPHESIANS 4:17-24
 - [ ] PSALMS 119:57-64
 - [ ] 1 KINGS 12
 
-**Jun 9**
+**Session 134**
 - [ ] LUKE 3:1-20
 - [ ] EPHESIANS 4:25-32
 - [ ] PSALMS 119:65-72
 - [ ] 1 KINGS 13-14
 
-**Jun 10**
+**Session 135**
 - [ ] LUKE 3:21-38
 - [ ] EPHESIANS 5:1-21
 - [ ] PSALMS 119:73-80
 - [ ] 1 KINGS 15-16
 
-**Jun 11**
+**Session 136**
 - [ ] LUKE 4:1-12
 - [ ] EPHESIANS 5:22-33
 - [ ] PSALMS 119:81-88
 - [ ] 1 KINGS 17-18
 
-**Jun 12**
+**Session 137**
 - [ ] LUKE 4:13-30
 - [ ] EPHESIANS 6:1-9
 - [ ] PSALMS 119:89-96
 - [ ] 1 KINGS 19-20
 
-**Jun 13**
+**Session 138**
 - [ ] LUKE 4:31-37
 - [ ] EPHESIANS 6:10-24
 - [ ] PSALMS 119:97-104
 - [ ] 1 KINGS 21-22
 
-**Jun 14**
+**Session 139**
 - [ ] 2 KINGS 4:38-44
 - [ ] EPHESIANS 1:1-11
 - [ ] PSALMS 119:105-112
 - [ ] 1 KINGS 1-3
 
-**Jun 15**
+**Session 140**
 - [ ] 2 KINGS 5:1-11
 - [ ] EPHESIANS 1:12-20
 - [ ] PSALMS 119:113-120
 - [ ] 1 KINGS 4-5
 
-**Jun 16**
+**Session 141**
 - [ ] 2 KINGS 5:12-16
 - [ ] EPHESIANS 1:21-30
 - [ ] PSALMS 119:121-128
 - [ ] 1 KINGS 6-7
 
-**Jun 17**
+**Session 142**
 - [ ] 2 KINGS 5:17-26
 - [ ] EPHESIANS 2:1-11
 - [ ] PSALMS 119:129-136
 - [ ] 1 KINGS 8-9
 
-**Jun 18**
+**Session 143**
 - [ ] 2 KINGS 5:27-32
 - [ ] EPHESIANS 2:12-18
 - [ ] PSALMS 119:137-144
 - [ ] 1 KINGS 10-11
 
-**Jun 19**
+**Session 144**
 - [ ] 2 KINGS 5:33-39
 - [ ] EPHESIANS 2:19-30
 - [ ] PSALMS 119:145-152
 - [ ] 1 KINGS 12-13
 
-**Jun 20**
+**Session 145**
 - [ ] 2 KINGS 6:1-16
 - [ ] EPHESIANS 3:1-9
 - [ ] PSALMS 119:153-160
 - [ ] 1 KINGS 14-15
 
-**Jun 21**
+**Session 146**
 - [ ] 2 KINGS 6:17-26
 - [ ] EPHESIANS 3:10-14
 - [ ] PSALMS 119:161-168
 - [ ] 1 KINGS 16-17
 
-**Jun 22**
+**Session 147**
 - [ ] 2 KINGS 6:27-36
 - [ ] EPHESIANS 3:15-21
 - [ ] PSALMS 119:169-176
 - [ ] 1 KINGS 18-19
 
-**Jun 23**
+**Session 148**
 - [ ] 2 KINGS 6:37-42
 - [ ] EPHESIANS 4:1-7
 - [ ] PSALMS 120
 - [ ] 1 KINGS 20-21
 
-**Jun 24**
+**Session 149**
 - [ ] 2 KINGS 6:43-49
 - [ ] EPHESIANS 4:8-13
 - [ ] PSALMS 121
 - [ ] 1 KINGS 22-23
 
-**Jun 25**
+**Session 150**
 - [ ] 2 KINGS 7:1-10
 - [ ] EPHESIANS 4:14-23
 - [ ] PSALMS 122
 - [ ] 1 KINGS 24-25
 
-
-## July
-
-**Jul 1**
+**Session 151**
 - [ ] LUKE 7:11-17
 - [ ] COLOSSIANS 1:1-14
 - [ ] PSALMS 123-124
 - [ ] 1 CHRONICLES 1-2
 
-**Jul 2**
+**Session 152**
 - [ ] LUKE 7:18-35
 - [ ] COLOSSIANS 1:15-29
 - [ ] PSALMS 125
 - [ ] 1 CHRONICLES 3-4
 
-**Jul 3**
+**Session 153**
 - [ ] LUKE 7:36-50
 - [ ] COLOSSIANS 2:1-7
 - [ ] PSALMS 126
 - [ ] 1 CHRONICLES 5-6
 
-**Jul 4**
+**Session 154**
 - [ ] LUKE 8:1-15
 - [ ] COLOSSIANS 2:8-15
 - [ ] PSALMS 127
 - [ ] 1 CHRONICLES 7-9
 
-**Jul 5**
+**Session 155**
 - [ ] LUKE 8:16-25
 - [ ] COLOSSIANS 2:16-23
 - [ ] PSALMS 128
 - [ ] 1 CHRONICLES 10-11
 
-**Jul 6**
+**Session 156**
 - [ ] LUKE 8:26-39
 - [ ] COLOSSIANS 3:1-14
 - [ ] PSALMS 129
 - [ ] 1 CHRONICLES 12-14
 
-**Jul 7**
+**Session 157**
 - [ ] LUKE 8:40-56
 - [ ] COLOSSIANS 3:15-25
 - [ ] PSALMS 130-131
 - [ ] 1 CHRONICLES 15-16
 
-**Jul 8**
+**Session 158**
 - [ ] LUKE 9:1-17
 - [ ] COLOSSIANS 4:1-9
 - [ ] PSALMS 132
 - [ ] 1 CHRONICLES 17-19
 
-**Jul 9**
+**Session 159**
 - [ ] LUKE 9:18-27
 - [ ] COLOSSIANS 4:10-18
 - [ ] PSALMS 133-134
 - [ ] 1 CHRONICLES 20-22
 
-**Jul 10**
+**Session 160**
 - [ ] LUKE 9:28-36
 - [ ] COLOSSIANS 1
 - [ ] PSALMS 135
 - [ ] 1 CHRONICLES 23-25
 
-**Jul 11**
+**Session 161**
 - [ ] LUKE 9:37-50
 - [ ] COLOSSIANS 2:1-9
 - [ ] PSALMS 136
 - [ ] 1 CHRONICLES 26-28
 
-**Jul 12**
+**Session 162**
 - [ ] LUKE 9:51-62
 - [ ] COLOSSIANS 2:10-20
 - [ ] PSALMS 137
 - [ ] 1 CHRONICLES 29
 
-**Jul 13**
+**Session 163**
 - [ ] LUKE 10:1-16
 - [ ] COLOSSIANS 3:1-6
 - [ ] PSALMS 138
 - [ ] 1 CHRONICLES 1-2
 
-**Jul 14**
+**Session 164**
 - [ ] LUKE 10:17-24
 - [ ] COLOSSIANS 3:7-13
 - [ ] PSALMS 139
 - [ ] 1 CHRONICLES 3-5
 
-**Jul 15**
+**Session 165**
 - [ ] LUKE 10:25-37
 - [ ] COLOSSIANS 4:1-10
 - [ ] PSALMS 140
 - [ ] 1 CHRONICLES 6-7
 
-**Jul 16**
+**Session 166**
 - [ ] LUKE 10:38-42
 - [ ] COLOSSIANS 4:11-18
 - [ ] PSALMS 141
 - [ ] 1 CHRONICLES 8-9
 
-**Jul 17**
+**Session 167**
 - [ ] LUKE 11:1-13
 - [ ] COLOSSIANS 5:1-11
 - [ ] PSALMS 142
 - [ ] 1 CHRONICLES 10-12
 
-**Jul 18**
+**Session 168**
 - [ ] LUKE 11:14-28
 - [ ] COLOSSIANS 5:12-28
 - [ ] PSALMS 143
 - [ ] 1 CHRONICLES 13-16
 
-**Jul 19**
+**Session 169**
 - [ ] LUKE 11:29-36
 - [ ] COLOSSIANS 1:1-7
 - [ ] PSALMS 144
 - [ ] 1 CHRONICLES 17-19
 
-**Jul 20**
+**Session 170**
 - [ ] LUKE 11:37-54
 - [ ] COLOSSIANS 1:8-12
 - [ ] PSALMS 145
 - [ ] 1 CHRONICLES 20-21
 
-**Jul 21**
+**Session 171**
 - [ ] LUKE 12:1-12
 - [ ] COLOSSIANS 2:1-12
 - [ ] PSALMS 146
 - [ ] 1 CHRONICLES 22-24
 
-**Jul 22**
+**Session 172**
 - [ ] LUKE 12:13-21
 - [ ] COLOSSIANS 2:13-17
 - [ ] PSALMS 147
 - [ ] 1 CHRONICLES 25-27
 
-**Jul 23**
+**Session 173**
 - [ ] LUKE 12:22-34
 - [ ] COLOSSIANS 3:1-5
 - [ ] PSALMS 148
 - [ ] 1 CHRONICLES 28-29
 
-**Jul 24**
+**Session 174**
 - [ ] LUKE 12:35-48
 - [ ] COLOSSIANS 3:6-13
 - [ ] PSALMS 149
 - [ ] 1 CHRONICLES 30-33
 
-**Jul 25**
+**Session 175**
 - [ ] LUKE 12:49-59
 - [ ] COLOSSIANS 3:14-18
 - [ ] PSALMS 150
 - [ ] 1 CHRONICLES 34-36
 
-
-## August
-
-**Aug 1**
+**Session 176**
 - [ ] LUKE 13:1-9
 - [ ] 1 TIMOTHY 1:1-11
 - [ ] PROVERBS 1
 - [ ] EZRA 1-2
 
-**Aug 2**
+**Session 177**
 - [ ] LUKE 13:10-21
 - [ ] 1 TIMOTHY 1:12-20
 - [ ] PROVERBS 2
 - [ ] EZRA 3
 
-**Aug 3**
+**Session 178**
 - [ ] LUKE 13:22-35
 - [ ] 1 TIMOTHY 2
 - [ ] PROVERBS 3
 - [ ] EZRA 4-5
 
-**Aug 4**
+**Session 179**
 - [ ] LUKE 14:1-14
 - [ ] 1 TIMOTHY 3:1-10
 - [ ] PROVERBS 4
 - [ ] EZRA 6
 
-**Aug 5**
+**Session 180**
 - [ ] LUKE 14:15-24
 - [ ] 1 TIMOTHY 3:11-16
 - [ ] PROVERBS 5
 - [ ] EZRA 7
 
-**Aug 6**
+**Session 181**
 - [ ] LUKE 14:25-35
 - [ ] 1 TIMOTHY 4
 - [ ] PROVERBS 6
 - [ ] EZRA 8
 
-**Aug 7**
+**Session 182**
 - [ ] LUKE 15:1-10
 - [ ] 1 TIMOTHY 5:1-15
 - [ ] PROVERBS 7
 - [ ] EZRA 9
 
-**Aug 8**
+**Session 183**
 - [ ] LUKE 15:11-32
 - [ ] 1 TIMOTHY 5:16-25
 - [ ] PROVERBS 8
 - [ ] EZRA 10
 
-**Aug 9**
+**Session 184**
 - [ ] LUKE 16:1-9
 - [ ] 1 TIMOTHY 6:1-10
 - [ ] PROVERBS 9
 - [ ] EZRA 1-2
 
-**Aug 10**
+**Session 185**
 - [ ] LUKE 16:10-18
 - [ ] 1 TIMOTHY 6:11-21
 - [ ] PROVERBS 10:1-16
 - [ ] EZRA 3
 
-**Aug 11**
+**Session 186**
 - [ ] LUKE 16:19-31
 - [ ] 1 TIMOTHY 1:1-7
 - [ ] PROVERBS 10:17-32
 - [ ] EZRA 4-5
 
-**Aug 12**
+**Session 187**
 - [ ] LUKE 17:1-10
 - [ ] 1 TIMOTHY 1:8-18
 - [ ] PROVERBS 11:1-15
 - [ ] EZRA 6
 
-**Aug 13**
+**Session 188**
 - [ ] LUKE 17:11-19
 - [ ] 1 TIMOTHY 2:1-13
 - [ ] PROVERBS 11:16-31
 - [ ] EZRA 7
 
-**Aug 14**
+**Session 189**
 - [ ] LUKE 17:20-37
 - [ ] 1 TIMOTHY 2:14-26
 - [ ] PROVERBS 12:1-14
 - [ ] EZRA 8
 
-**Aug 15**
+**Session 190**
 - [ ] LUKE 18:1-8
 - [ ] 1 TIMOTHY 3:1-9
 - [ ] PROVERBS 12:15-28
 - [ ] EZRA 9
 
-**Aug 16**
+**Session 191**
 - [ ] LUKE 18:9-17
 - [ ] 1 TIMOTHY 3:10-17
 - [ ] PROVERBS 13:1-12
 - [ ] EZRA 10
 
-**Aug 17**
+**Session 192**
 - [ ] LUKE 18:18-30
 - [ ] 1 TIMOTHY 4
 - [ ] PROVERBS 13:13-25
 - [ ] EZRA 11
 
-**Aug 18**
+**Session 193**
 - [ ] LUKE 18:31-43
 - [ ] 1 TIMOTHY 1:1-9
 - [ ] PROVERBS 14:1-18
 - [ ] EZRA 12
 
-**Aug 19**
+**Session 194**
 - [ ] LUKE 19:1-10
 - [ ] 1 TIMOTHY 1:10-16
 - [ ] PROVERBS 14:19-35
 - [ ] EZRA 13
 
-**Aug 20**
+**Session 195**
 - [ ] LUKE 19:11-27
 - [ ] 1 TIMOTHY 2:1-10
 - [ ] PROVERBS 15:1-17
 - [ ] EZRA 1
 
-**Aug 21**
+**Session 196**
 - [ ] LUKE 19:28-38
 - [ ] 1 TIMOTHY 2:11-15
 - [ ] PROVERBS 15:18-33
 - [ ] EZRA 2
 
-**Aug 22**
+**Session 197**
 - [ ] LUKE 19:39-48
 - [ ] 1 TIMOTHY 3:1-8
 - [ ] PROVERBS 16:1-16
 - [ ] EZRA 3-4
 
-**Aug 23**
+**Session 198**
 - [ ] LUKE 20:1-8
 - [ ] 1 TIMOTHY 3:9-15
 - [ ] PROVERBS 16:17-33
 - [ ] EZRA 5-6
 
-**Aug 24**
+**Session 199**
 - [ ] LUKE 20:9-19
 - [ ] 1 TIMOTHY 1-11
 - [ ] PROVERBS 17:1-14
 - [ ] EZRA 7-8
 
-**Aug 25**
+**Session 200**
 - [ ] LUKE 20:20-26
 - [ ] 1 TIMOTHY 12-25
 - [ ] PROVERBS 17:15-28
 - [ ] EZRA 9-10
 
-
-## September
-
-**Sep 1**
+**Session 201**
 - [ ] LUKE 20:27-40
 - [ ] HEBREWS 1:1-9
 - [ ] PROVERBS 18
 - [ ] ISAIAH 1-2
 
-**Sep 2**
+**Session 202**
 - [ ] LUKE 20:41-47
 - [ ] HEBREWS 1:10-14
 - [ ] PROVERBS 19:1-14
 - [ ] ISAIAH 3-5
 
-**Sep 3**
+**Session 203**
 - [ ] LUKE 21:1-19
 - [ ] HEBREWS 2:1-9
 - [ ] PROVERBS 19:15-29
 - [ ] ISAIAH 6-8
 
-**Sep 4**
+**Session 204**
 - [ ] LUKE 21:20-28
 - [ ] HEBREWS 2:10-18
 - [ ] PROVERBS 20:1-15
 - [ ] ISAIAH 9-10
 
-**Sep 5**
+**Session 205**
 - [ ] LUKE 21:29-38
 - [ ] HEBREWS 3
 - [ ] PROVERBS 20:16-30
 - [ ] ISAIAH 11-13
 
-**Sep 6**
+**Session 206**
 - [ ] LUKE 22:1-13
 - [ ] HEBREWS 4:1-11
 - [ ] PROVERBS 21:1-16
 - [ ] ISAIAH 14-16
 
-**Sep 7**
+**Session 207**
 - [ ] LUKE 22:14-23
 - [ ] HEBREWS 4:12-16
 - [ ] PROVERBS 21:17-31
 - [ ] ISAIAH 17-20
 
-**Sep 8**
+**Session 208**
 - [ ] LUKE 22:24-30
 - [ ] HEBREWS 5
 - [ ] PROVERBS 22:1-16
 - [ ] ISAIAH 21-23
 
-**Sep 9**
+**Session 209**
 - [ ] LUKE 22:31-38
 - [ ] HEBREWS 6:1-12
 - [ ] PROVERBS 22:17-29
 - [ ] ISAIAH 24-26
 
-**Sep 10**
+**Session 210**
 - [ ] LUKE 22:39-46
 - [ ] HEBREWS 6:13-20
 - [ ] PROVERBS 23:1-18
 - [ ] ISAIAH 27-28
 
-**Sep 11**
+**Session 211**
 - [ ] LUKE 22:47-53
 - [ ] HEBREWS 7:1-10
 - [ ] PROVERBS 23:19-35
 - [ ] ISAIAH 29-30
 
-**Sep 12**
+**Session 212**
 - [ ] LUKE 22:54-62
 - [ ] HEBREWS 7:11-28
 - [ ] PROVERBS 24:1-22
 - [ ] ISAIAH 31-33
 
-**Sep 13**
+**Session 213**
 - [ ] LUKE 22:63-71
 - [ ] HEBREWS 8:1-6
 - [ ] PROVERBS 24:23-34
 - [ ] ISAIAH 34-36
 
-**Sep 14**
+**Session 214**
 - [ ] LUKE 23:1-12
 - [ ] HEBREWS 8:7-13
 - [ ] PROVERBS 25:1-14
 - [ ] ISAIAH 37-39
 
-**Sep 15**
+**Session 215**
 - [ ] LUKE 23:13-25
 - [ ] HEBREWS 9:1-10
 - [ ] PROVERBS 25:15-28
 - [ ] ISAIAH 40-41
 
-**Sep 16**
+**Session 216**
 - [ ] LUKE 23:26-31
 - [ ] HEBREWS 9:11-28
 - [ ] PROVERBS 26:1-16
 - [ ] ISAIAH 42-43
 
-**Sep 17**
+**Session 217**
 - [ ] LUKE 23:32-37
 - [ ] HEBREWS 10:1-18
 - [ ] PROVERBS 26:17-28
 - [ ] ISAIAH 44-45
 
-**Sep 18**
+**Session 218**
 - [ ] LUKE 23:38-43
 - [ ] HEBREWS 10:19-39
 - [ ] PROVERBS 27:1-14
 - [ ] ISAIAH 46-48
 
-**Sep 19**
+**Session 219**
 - [ ] LUKE 23:44-49
 - [ ] HEBREWS 11:1-16
 - [ ] PROVERBS 27:15-27
 - [ ] ISAIAH 49-50
 
-**Sep 20**
+**Session 220**
 - [ ] LUKE 23:50-56
 - [ ] HEBREWS 11:17-31
 - [ ] PROVERBS 28:1-14
 - [ ] ISAIAH 51-53
 
-**Sep 21**
+**Session 221**
 - [ ] LUKE 24:1-12
 - [ ] HEBREWS 11:32-40
 - [ ] PROVERBS 28:15-28
 - [ ] ISAIAH 54-55
 
-**Sep 22**
+**Session 222**
 - [ ] LUKE 24:13-27
 - [ ] HEBREWS 12:1-13
 - [ ] PROVERBS 29:1-14
 - [ ] ISAIAH 56-58
 
-**Sep 23**
+**Session 223**
 - [ ] LUKE 24:28-35
 - [ ] HEBREWS 12:14-29
 - [ ] PROVERBS 29:15-27
 - [ ] ISAIAH 59-61
 
-**Sep 24**
+**Session 224**
 - [ ] LUKE 24:36-44
 - [ ] HEBREWS 13:1-8
 - [ ] PROVERBS 30
 - [ ] ISAIAH 62-64
 
-**Sep 25**
+**Session 225**
 - [ ] LUKE 24:45-53
 - [ ] HEBREWS 13:9-25
 - [ ] PROVERBS 31
 - [ ] ISAIAH 65-66
 
-
-## October
-
-**Oct 1**
+**Session 226**
 - [ ] JOHN 1:1-18
 - [ ] JAMES 1:1-11
 - [ ] ECCLES. 1
 - [ ] JEREMIAH 1-2
 
-**Oct 2**
+**Session 227**
 - [ ] JOHN 1:19-28
 - [ ] JAMES 1:12-18
 - [ ] ECCLES. 2:1-16
 - [ ] JEREMIAH 3-4
 
-**Oct 3**
+**Session 228**
 - [ ] JOHN 1:29-34
 - [ ] JAMES 1:19-27
 - [ ] ECCLES. 2:17-26
 - [ ] JEREMIAH 5-6
 
-**Oct 4**
+**Session 229**
 - [ ] JOHN 1:35-42
 - [ ] JAMES 2:1-13
 - [ ] ECCLES. 3:1-15
 - [ ] JEREMIAH 7-9
 
-**Oct 5**
+**Session 230**
 - [ ] JOHN 1:43-51
 - [ ] JAMES 2:14-26
 - [ ] ECCLES. 3:16-22
 - [ ] JEREMIAH 10-11
 
-**Oct 6**
+**Session 231**
 - [ ] JOHN 2:1-11
 - [ ] JAMES 3:1-12
 - [ ] ECCLES. 4
 - [ ] JEREMIAH 12-13
 
-**Oct 7**
+**Session 232**
 - [ ] JOHN 2:12-25
 - [ ] JAMES 3:13-18
 - [ ] ECCLES. 5
 - [ ] JEREMIAH 14-15
 
-**Oct 8**
+**Session 233**
 - [ ] JOHN 3:1-15
 - [ ] JAMES 4:1-10
 - [ ] ECCLES. 6
 - [ ] JEREMIAH 16-18
 
-**Oct 9**
+**Session 234**
 - [ ] JOHN 3:16-21
 - [ ] JAMES 4:11-17
 - [ ] ECCLES. 7:1-14
 - [ ] JEREMIAH 19-22
 
-**Oct 10**
+**Session 235**
 - [ ] JOHN 3:22-36
 - [ ] JAMES 5:1-6
 - [ ] ECCLES. 7:15-29
 - [ ] JEREMIAH 23-25
 
-**Oct 11**
+**Session 236**
 - [ ] JOHN 4:1-14
 - [ ] JAMES 5:7-12
 - [ ] ECCLES. 8
 - [ ] JEREMIAH 26-29
 
-**Oct 12**
+**Session 237**
 - [ ] JOHN 4:15-26
 - [ ] JAMES 5:13-20
 - [ ] ECCLES. 9
 - [ ] JEREMIAH 30-31
 
-**Oct 13**
+**Session 238**
 - [ ] JOHN 4:27-42
 - [ ] JAMES 1:1-9
 - [ ] ECCLES. 10
 - [ ] JEREMIAH 32-34
 
-**Oct 14**
+**Session 239**
 - [ ] JOHN 4:43-54
 - [ ] JAMES 1:10-16
 - [ ] ECCLES. 11
 - [ ] JEREMIAH 35-38
 
-**Oct 15**
+**Session 240**
 - [ ] JOHN 5:1-15
 - [ ] JAMES 1:17-25
 - [ ] ECCLES. 12
 - [ ] JEREMIAH 39-43
 
-**Oct 16**
+**Session 241**
 - [ ] JOHN 5:16-30
 - [ ] JAMES 2:1-8
 - [ ] ECCLES. 1
 - [ ] JEREMIAH 44-46
 
-**Oct 17**
+**Session 242**
 - [ ] JOHN 5:31-47
 - [ ] JAMES 2:9-17
 - [ ] ECCLES. 2
 - [ ] JEREMIAH 47-48
 
-**Oct 18**
+**Session 243**
 - [ ] JOHN 6:1-15
 - [ ] JAMES 2:18-25
 - [ ] ECCLES. 3
 - [ ] JEREMIAH 49
 
-**Oct 19**
+**Session 244**
 - [ ] JOHN 6:16-24
 - [ ] JAMES 3:1-7
 - [ ] ECCLES. 4:1-7
 - [ ] JEREMIAH 50
 
-**Oct 20**
+**Session 245**
 - [ ] JOHN 6:25-40
 - [ ] JAMES 3:8-12
 - [ ] ECCLES. 4:8-16
 - [ ] JEREMIAH 51
 
-**Oct 21**
+**Session 246**
 - [ ] JOHN 6:41-59
 - [ ] JAMES 3:13-22
 - [ ] ECCLES. 5
 - [ ] JEREMIAH 52
 
-**Oct 22**
+**Session 247**
 - [ ] JOHN 6:60-71
 - [ ] JAMES 4:1-11
 - [ ] ECCLES. 6
 - [ ] JEREMIAH 1
 
-**Oct 23**
+**Session 248**
 - [ ] JOHN 7:1-13
 - [ ] JAMES 4:12-19
 - [ ] ECCLES. 7
 - [ ] JEREMIAH 2
 
-**Oct 24**
+**Session 249**
 - [ ] JOHN 7:14-24
 - [ ] JAMES 5:1-7
 - [ ] ECCLES. 8:1-7
 - [ ] JEREMIAH 3
 
-**Oct 25**
+**Session 250**
 - [ ] JOHN 7:25-36
 - [ ] JAMES 5:8-14
 - [ ] ECCLES. 8:8-14
 - [ ] JEREMIAH 4-5
 
-
-## November
-
-**Nov 1**
+**Session 251**
 - [ ] JOHN 7:37-44
 - [ ] 2 PETER 1:1-11
 - [ ] JOB 1
 - [ ] EZEKIEL 1-3
 
-**Nov 2**
+**Session 252**
 - [ ] JOHN 7:45-53
 - [ ] 2 PETER 1:12-21
 - [ ] JOB 2
 - [ ] EZEKIEL 4-8
 
-**Nov 3**
+**Session 253**
 - [ ] JOHN 8:1-11
 - [ ] 2 PETER 2:1-9
 - [ ] JOB 3
 - [ ] EZEKIEL 9-12
 
-**Nov 4**
+**Session 254**
 - [ ] JOHN 8:12-20
 - [ ] 2 PETER 2:10-16
 - [ ] JOB 4
 - [ ] EZEKIEL 13-15
 
-**Nov 5**
+**Session 255**
 - [ ] JOHN 8:21-30
 - [ ] 2 PETER 2:17-22
 - [ ] JOB 5
 - [ ] EZEKIEL 16
 
-**Nov 6**
+**Session 256**
 - [ ] JOHN 8:31-47
 - [ ] 2 PETER 3:1-9
 - [ ] JOB 6
 - [ ] EZEKIEL 17-19
 
-**Nov 7**
+**Session 257**
 - [ ] JOHN 8:48-59
 - [ ] 2 PETER 3:10-18
 - [ ] JOB 7
 - [ ] EZEKIEL 20-21
 
-**Nov 8**
+**Session 258**
 - [ ] JOHN 9:1-12
 - [ ] 2 PETER 1:1-4
 - [ ] JOB 8
 - [ ] EZEKIEL 22-23
 
-**Nov 9**
+**Session 259**
 - [ ] JOHN 9:13-25
 - [ ] 2 PETER 1:5-10
 - [ ] JOB 9:1-20
 - [ ] EZEKIEL 24-26
 
-**Nov 10**
+**Session 260**
 - [ ] JOHN 9:26-41
 - [ ] 2 PETER 2:1-11
 - [ ] JOB 9:21-35
 - [ ] EZEKIEL 27-28
 
-**Nov 11**
+**Session 261**
 - [ ] JOHN 10:1-10
 - [ ] 2 PETER 2:12-17
 - [ ] JOB 10
 - [ ] EZEKIEL 29-30
 
-**Nov 12**
+**Session 262**
 - [ ] JOHN 10:11-21
 - [ ] 2 PETER 2:18-23
 - [ ] JOB 11
 - [ ] EZEKIEL 31-32
 
-**Nov 13**
+**Session 263**
 - [ ] JOHN 10:22-42
 - [ ] 2 PETER 2:24-29
 - [ ] JOB 12
 - [ ] EZEKIEL 33-34
 
-**Nov 14**
+**Session 264**
 - [ ] JOHN 11:1-16
 - [ ] 2 PETER 3:1-10
 - [ ] JOB 13
 - [ ] EZEKIEL 35-37
 
-**Nov 15**
+**Session 265**
 - [ ] JOHN 11:17-37
 - [ ] 2 PETER 3:11-18
 - [ ] JOB 14
 - [ ] EZEKIEL 38-39
 
-**Nov 16**
+**Session 266**
 - [ ] JOHN 11:38-44
 - [ ] 2 PETER 3:19-24
 - [ ] JOB 15:1-16
 - [ ] EZEKIEL 40-41
 
-**Nov 17**
+**Session 267**
 - [ ] JOHN 11:45-57
 - [ ] 2 PETER 4:1-6
 - [ ] JOB 15:17-35
 - [ ] EZEKIEL 42-44
 
-**Nov 18**
+**Session 268**
 - [ ] JOHN 12:1-11
 - [ ] 2 PETER 4:7-21
 - [ ] JOB 16
 - [ ] EZEKIEL 45-47
 
-**Nov 19**
+**Session 269**
 - [ ] JOHN 12:12-19
 - [ ] 2 PETER 5:1-12
 - [ ] JOB 17
 - [ ] EZEKIEL 48
 
-**Nov 20**
+**Session 270**
 - [ ] JOHN 12:20-36
 - [ ] 2 PETER 5:13-21
 - [ ] JOB 18
 - [ ] EZEKIEL 1-2
 
-**Nov 21**
+**Session 271**
 - [ ] JOHN 12:37-50
 - [ ] 2 PETER 1-13
 - [ ] JOB 19
 - [ ] EZEKIEL 3-4
 
-**Nov 22**
+**Session 272**
 - [ ] JOHN 13:1-11
 - [ ] 2 PETER 1-14
 - [ ] JOB 20
 - [ ] EZEKIEL 5-6
 
-**Nov 23**
+**Session 273**
 - [ ] JOHN 13:12-17
 - [ ] 2 PETER 1-7
 - [ ] JOB 21:1-21
 - [ ] EZEKIEL 7-8
 
-**Nov 24**
+**Session 274**
 - [ ] JOHN 13:18-30
 - [ ] 2 PETER 8-16
 - [ ] JOB 21:22-34
 - [ ] EZEKIEL 9
 
-**Nov 25**
+**Session 275**
 - [ ] JOHN 13:31-38
 - [ ] 2 PETER 17-25
 - [ ] JOB 22
 - [ ] EZEKIEL 10-12
 
-
-## December
-
-**Dec 1**
+**Session 276**
 - [ ] JOHN 14:1-14
 - [ ] REVELATION 1:1-8
 - [ ] JOB 23
 - [ ] HOSEA 1-3
 
-**Dec 2**
+**Session 277**
 - [ ] JOHN 14:15-21
 - [ ] REVELATION 1:9-20
 - [ ] JOB 24
 - [ ] HOSEA 4-6
 
-**Dec 3**
+**Session 278**
 - [ ] JOHN 14:22-31
 - [ ] REVELATION 2:1-17
 - [ ] JOB 25-26
 - [ ] HOSEA 7-8
 
-**Dec 4**
+**Session 279**
 - [ ] JOHN 15:1-8
 - [ ] REVELATION 2:18-29
 - [ ] JOB 27
 - [ ] HOSEA 9-12
 
-**Dec 5**
+**Session 280**
 - [ ] JOHN 15:9-17
 - [ ] REVELATION 3:1-13
 - [ ] JOB 28
 - [ ] HOSEA 13-14
 
-**Dec 6**
+**Session 281**
 - [ ] JOHN 15:18-27
 - [ ] REVELATION 3:14-22
 - [ ] JOB 29
 - [ ] HOSEA 1
 
-**Dec 7**
+**Session 282**
 - [ ] JOHN 16:1-11
 - [ ] REVELATION 4
 - [ ] JOB 30
 - [ ] HOSEA 2-3
 
-**Dec 8**
+**Session 283**
 - [ ] JOHN 16:12-24
 - [ ] REVELATION 5
 - [ ] JOB 31:1-23
 - [ ] HOSEA 1-2
 
-**Dec 9**
+**Session 284**
 - [ ] JOHN 16:25-33
 - [ ] REVELATION 6
 - [ ] JOB 31:24-40
 - [ ] HOSEA 3-4
 
-**Dec 10**
+**Session 285**
 - [ ] JOHN 17:1-5
 - [ ] REVELATION 7
 - [ ] JOB 32
 - [ ] HOSEA 5-6
 
-**Dec 11**
+**Session 286**
 - [ ] JOHN 17:6-19
 - [ ] REVELATION 8
 - [ ] JOB 33:1-11
 - [ ] HOSEA 7-9
 
-**Dec 12**
+**Session 287**
 - [ ] JOHN 17:20-26
 - [ ] REVELATION 9
 - [ ] JOB 33:12-33
 - [ ] HOSEA 1-21
 
-**Dec 13**
+**Session 288**
 - [ ] JOHN 18:1-18
 - [ ] REVELATION 10
 - [ ] JOB 34:1-20
 - [ ] HOSEA 1-4
 
-**Dec 14**
+**Session 289**
 - [ ] JOHN 18:19-27
 - [ ] REVELATION 11
 - [ ] JOB 34:21-37
 - [ ] HOSEA 1-3
 
-**Dec 15**
+**Session 290**
 - [ ] JOHN 18:28-40
 - [ ] REVELATION 12
 - [ ] JOB 35
 - [ ] HOSEA 4-5
 
-**Dec 16**
+**Session 291**
 - [ ] JOHN 19:1-16
 - [ ] REVELATION 13
 - [ ] JOB 36:1-15
 - [ ] HOSEA 6-7
 
-**Dec 17**
+**Session 292**
 - [ ] JOHN 19:17-27
 - [ ] REVELATION 14
 - [ ] JOB 36:16-33
 - [ ] HOSEA 1-3
 
-**Dec 18**
+**Session 293**
 - [ ] JOHN 19:28-37
 - [ ] REVELATION 15
 - [ ] JOB 37
 - [ ] HOSEA 1-3
 
-**Dec 19**
+**Session 294**
 - [ ] JOHN 19:38-42
 - [ ] REVELATION 16
 - [ ] JOB 38:1-21
 - [ ] HOSEA 1-2
 
-**Dec 20**
+**Session 295**
 - [ ] JOHN 20:1-9
 - [ ] REVELATION 17
 - [ ] JOB 38:22-41
 - [ ] HOSEA 3
 
-**Dec 21**
+**Session 296**
 - [ ] JOHN 20:10-18
 - [ ] REVELATION 18
 - [ ] JOB 39
 - [ ] HOSEA 1-2
 
-**Dec 22**
+**Session 297**
 - [ ] JOHN 20:19-23
 - [ ] REVELATION 19
 - [ ] JOB 40
 - [ ] HOSEA 1-5
 
-**Dec 23**
+**Session 298**
 - [ ] JOHN 20:24-31
 - [ ] REVELATION 20
 - [ ] JOB 41:1-11
 - [ ] HOSEA 6-9
 
-**Dec 24**
+**Session 299**
 - [ ] JOHN 21:1-14
 - [ ] REVELATION 21
 - [ ] JOB 41:12-34
 - [ ] HOSEA 10-14
 
-**Dec 25**
+**Session 300**
 - [ ] JOHN 21:15-25
 - [ ] REVELATION 22
 - [ ] JOB 42
